@@ -1,0 +1,63 @@
+ekf_localization_node:
+  ros__parameters:
+    frequency: 30.0  # Frequency in Hz at which the filter will run
+    sensor_timeout: 0.1  # Time (in seconds) before the filter considers a sensor's data stale
+    two_d_mode: true  # Set to true if your robot operates in a planar environment (only x, y, yaw)
+
+    # Input topic for IMU
+    imu0: "/bno055/imu"
+    imu0_config: [false, false, false,  # X, Y, Z positions
+                  true, true, true,    # Roll, Pitch, Yaw (orientations)
+                  false, false, false, # X, Y, Z velocities
+                  true, true, true,    # Angular velocities
+                  false, false, false, # X, Y, Z accelerations
+                  true, true, true]    # Linear accelerations
+    imu0_differential: false
+    imu0_queue_size: 5
+    imu0_relative: true
+    imu0_remove_gravitational_acceleration: true
+
+    # Input topic for first Odometry (e.g., RF2O)
+    odom0: "/odom_rf2o"
+    odom0_config: [true, true, false,   # X, Y, Z positions
+                   false, false, false, # X, Y, Z orientations
+                   true, true, false,   # X, Y, Z velocities
+                   false, false, true,  # Angular velocity in Z
+                   false, false, false, # X, Y, Z accelerations
+                   false, false, false] # Angular accelerations
+    odom0_differential: false
+    odom0_queue_size: 5
+    odom0_relative: false
+
+    # Input topic for second Odometry (e.g., wheel odometry)
+    odom1: "/odom"
+    odom1_config: [true, true, false,   # X, Y, Z positions
+                   false, false, false, # X, Y, Z orientations
+                   true, true, false,   # X, Y, Z velocities
+                   false, false, true,  # Angular velocity in Z
+                   false, false, false, # X, Y, Z accelerations
+                   false, false, false] # Angular accelerations
+    odom1_differential: false
+    odom1_queue_size: 5
+    odom1_relative: false
+
+    # Configure output frame and initial covariance
+    # world_frame: "odom"
+    # base_link_frame: "base_link"
+    # odom_frame: "odom"
+    # map_frame: "map"
+    publish_tf: true
+    tf_prefix: ""
+    map_frame: map
+    odom_frame: odom
+    base_link_frame: base_link
+
+    # Initial estimate covariance
+    initial_estimate_covariance: [1.0e-9, 0.0, 0.0, 0.0, 0.0, 0.0,
+                                  0.0, 1.0e-9, 0.0, 0.0, 0.0, 0.0,
+                                  0.0, 0.0, 1.0e-9, 0.0, 0.0, 0.0,
+                                  0.0, 0.0, 0.0, 1.0e-9, 0.0, 0.0,
+                                  0.0, 0.0, 0.0, 0.0, 1.0e-9, 0.0,
+                                  0.0, 0.0, 0.0, 0.0, 0.0, 1.0e-9]
+    
+
