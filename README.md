@@ -183,8 +183,10 @@ https://github.com/process1183/ros2_bno055
 
     ros2 run turtlebot3_teleop teleop_keyboard
     ```
+</details>
+<details><summary>Nav2 using turtlebot packages</summary>
 
-- Nav2 using turtlebot packages
+- make sure turtlebot3, nav2, and custom packages in this repo is all installed
     ```bash
     ros2 launch odom nav2_launch.py 
     ros2 run odom cmd_vel_controller
