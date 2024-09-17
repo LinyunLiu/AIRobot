@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "8bd199af54ef4bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f9392fd20d0e388",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e87a5153d7b57bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "016b68139b4b0573",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Project/Tasks Overview.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fad531c7c70746f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "56a4926a91e7f103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f96f2f38e868fc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4087829c68d83803",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c049116454c5c15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a54e5334bfa163bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b64a6429173d8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afbd2e3d4d5147cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7e3f3e00b1f9f34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cee5d4c8c6988e74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f2a22dac90c00655",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "homepage:Open homepage": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "canvas:Create new canvas": false,
+      "templater-obsidian:Templater": false,
+      "command-palette:Open command palette": false,
+      "cicada-sync:CI-SYNC": false
+    }
+  },
+  "active": "5e87a5153d7b57bf",
+  "lastOpenFiles": [
+    "Project/Tasks Overview.md",
+    "Welcome.md",
+    "Project/Tasks/Setup Remote Desktop for RPi4.md",
+    "Project/Tasks/Do the stuff.md",
+    "Reports/Incidents/Incidents.md",
+    "Project/Tasks/Make wheel spin.md",
+    "Resources/Parts.md",
+    "Ideas.md",
+    "Untitled.md",
+    "Procedures.md",
+    "Untitled",
+    "Templates/Progress Report.md",
+    "Reports/Progress/2024-09-16 Progress Report.md",
+    "Reports/Progress/Progress.md",
+    "Reports/Progress/2024-09-16 162716 Progress Report.md",
+    "Templates/Progress r.md",
+    "Templates/Incident Report.md",
+    "Reports/Progress",
+    "Resources/Resources.md",
+    "Resources/Bill Of Materials.md",
+    "Resources/bill_of_materials.csv",
+    "Resources/lu248985h6uq.tmp",
+    "Resources/bill_of_materials.xlsx",
+    "Research/Research.md",
+    "Resources",
+    "Research",
+    "Templates/Task Note.md",
+    "Templates/Test Report.md",
+    "Project/Tasks",
+    "Templates/Person Note.md",
+    "Project/Setup RPi4 Remote Desktop.md",
+    "Project/Untitled.md",
+    "Project",
+    "People",
+    "Reports/Tests/Tests.md",
+    "Reports/Reports.md"
+  ]
+}

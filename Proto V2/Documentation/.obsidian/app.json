@@ -1,0 +1,15 @@
+{
+  "vimMode": false,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "absolute",
+  "promptDelete": false,
+  "attachmentFolderPath": "./",
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
+}

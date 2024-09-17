@@ -1,0 +1,17 @@
+{
+  "deviceName": "jacobus",
+  "remoteRepo": "git@github.com:adapole/obsidian-yaos.git",
+  "basePath": "/app/resources/electron.asar/renderer",
+  "branchName": "main",
+  "syncImages": false,
+  "syncAudio": false,
+  "syncVideos": false,
+  "syncPdfs": false,
+  "syncOtherFiles": false,
+  "syncMainSettings": false,
+  "syncAppearanceSettings": false,
+  "syncThemesAndSnippets": false,
+  "syncHotkeys": false,
+  "syncCorePluginSettings": false,
+  "syncCommunityPluginSettings": false
+}

@@ -1,0 +1,2 @@
+- [ ] share thoughts and ideas about the project here
+- [ ] 
