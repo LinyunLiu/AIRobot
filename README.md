@@ -1,17 +1,38 @@
-# AIRobot
+# Proto Robotics Project
 
-A teleop robot without much AI
-
-# Proto V2 Documentation
-
-Look inside "Proto V2 Documentation" folder.
+A robotics research platform at TWU RRU (Trinity Western University's Robotics Research Unit).
 
 
 
+# Proto V2 (2024-09-09 to ???)
+
+Proto V2 is currently in development. It's intended goal is to be the first autonomous delivery robot in the region.
+
+## Contributors
+- Finian (Lughtigheid?)
+- Noah ???
+- Dominic ???
+- [Oliver (LinYun) Liu](https://github.com/LinyunLiu)
+- [Jacobus Burger](https://github.com/LordUbuntu)
+
+## Documentation
+- The documentation can be found in [Proto V2/Documentation](https://github.com/LinyunLiu/AIRobot/tree/main/Proto%20V2/Documentation), it's written and handled with [Obsidian.md](https://obsidian.md/).
 
 
 
-# Proto V1 "Documentation"
+# Proto V1 (2024-05-15 to 2024-08-31)
+
+Proto V1 was a the pioneering robotics from scratch project. It was a simple teleoperation robot controlled with a web interface and simple BLDC motor controller board.
+
+## Contributors
+- Josh Boelma
+- [Jacobus Burger](https://github.com/LordUbuntu)
+- [Jun Park](https://github.com/CA-JunPark)
+- [Oliver (LinYun) Liu](https://github.com/LinyunLiu)
+
+## Documentation
+
+Most of the [Proto V1 Documentation](https://github.com/LinyunLiu/AIRobot/tree/main/Proto%20V1) was done with notion and is kept in the Proto V1 directory as a zip file.
 
 <details><summary>Required External Repositries </summary>
 
