@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f9392fd20d0e388",
+        "id": "a178933901b663bb",
         "type": "tabs",
         "children": [
           {
-            "id": "5e87a5153d7b57bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "016b68139b4b0573",
+            "id": "3d5acba4da590d27",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -37,8 +25,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "49072f0963bb826b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,20 +159,20 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
-      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": true,
       "canvas:Create new canvas": false,
-      "templater-obsidian:Templater": false,
       "command-palette:Open command palette": false,
-      "cicada-sync:CI-SYNC": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "cicada-sync:CI-SYNC": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5e87a5153d7b57bf",
+  "active": "49072f0963bb826b",
   "lastOpenFiles": [
     "Project/Tasks Overview.md",
     "Welcome.md",
