@@ -4,30 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a178933901b663bb",
+        "id": "4780790010dbc494",
         "type": "tabs",
         "children": [
           {
-            "id": "3d5acba4da590d27",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Project/Tasks Overview.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          },
-          {
-            "id": "49072f0963bb826b",
+            "id": "2f6a459582fb5fed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,9 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3348f57a22e36cd4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,43 +160,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "49072f0963bb826b",
+  "active": "2f6a459582fb5fed",
   "lastOpenFiles": [
-    "Project/Tasks Overview.md",
+    "Research/Research.md",
     "Welcome.md",
-    "Project/Tasks/Setup Remote Desktop for RPi4.md",
-    "Project/Tasks/Do the stuff.md",
-    "Reports/Incidents/Incidents.md",
-    "Project/Tasks/Make wheel spin.md",
+    "Resources/Resources.md",
+    "Templates/Note Template.md",
+    "Templates/Test Template.md",
+    "Templates/Task Template.md",
+    "Templates/Progress Template.md",
+    "Templates/Incident Template.md",
     "Resources/Parts.md",
+    "Resources/Bill Of Materials.md",
+    "Project/Tasks Overview.md",
+    "Project/Tasks/Do the stuff.md",
+    "Notes/Notes.md",
+    "Notes",
+    "Reports/Incidents/Incidents.md",
+    "Project/Tasks/Setup Remote Desktop for RPi4.md",
+    "Project/Tasks/Make wheel spin.md",
     "Ideas.md",
     "Untitled.md",
     "Procedures.md",
-    "Untitled",
-    "Templates/Progress Report.md",
     "Reports/Progress/2024-09-16 Progress Report.md",
     "Reports/Progress/Progress.md",
     "Reports/Progress/2024-09-16 162716 Progress Report.md",
     "Templates/Progress r.md",
-    "Templates/Incident Report.md",
     "Reports/Progress",
-    "Resources/Resources.md",
-    "Resources/Bill Of Materials.md",
     "Resources/bill_of_materials.csv",
     "Resources/lu248985h6uq.tmp",
     "Resources/bill_of_materials.xlsx",
-    "Research/Research.md",
     "Resources",
     "Research",
-    "Templates/Task Note.md",
-    "Templates/Test Report.md",
     "Project/Tasks",
     "Templates/Person Note.md",
     "Project/Setup RPi4 Remote Desktop.md",
     "Project/Untitled.md",
     "Project",
-    "People",
-    "Reports/Tests/Tests.md",
-    "Reports/Reports.md"
+    "People"
   ]
 }

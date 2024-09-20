@@ -27,6 +27,7 @@
     "created": "date",
     "status": "checkbox",
     "date": "date",
-    "due": "date"
+    "due": "date",
+    "authors": "multitext"
   }
 }

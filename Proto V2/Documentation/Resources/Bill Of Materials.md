@@ -1,3 +1,9 @@
+---
+tags:
+  - note
+authors:
+  - Jacobus Burger
+---
 
 
 | date       | part        | cost | notes                                |

@@ -3,6 +3,7 @@ tags:
   - report
   - incident
 date: <% tp.date.now("YYYY-MM-DD") %>
+authors:
 ---
 ```table-of-contents
 ```

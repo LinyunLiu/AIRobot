@@ -3,6 +3,7 @@ tags:
   - report
   - progress
 date: <% tp.date.now("YYYY-MM-DD") %>
+authors:
 ---
 <% await tp.file.rename(tp.date.now("YYYY-MM-DD") + " Progress Report") %>
 # Overview
