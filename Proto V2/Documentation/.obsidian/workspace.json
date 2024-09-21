@@ -4,46 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3599f2b12f3889d",
+        "id": "47844e18fc96fa85",
         "type": "tabs",
         "children": [
           {
-            "id": "5b004ab9801f5ba1",
+            "id": "aa2e2c01e689aaa8",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          },
-          {
-            "id": "037063dd130bfa08",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Project/Tasks Overview.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
-            }
-          },
-          {
-            "id": "8f2ca4785c78f8c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -184,10 +153,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b004ab9801f5ba1",
+  "active": "aa2e2c01e689aaa8",
   "lastOpenFiles": [
-    "Reports/Progress/2024-09-20 Progress Report.md",
     "Archive/Proto V1.md",
+    "Welcome.md",
+    "Reports/Progress/2024-09-20 Progress Report.md",
+    "People/Jacobus Burger.md",
+    "People/Jacobus Burger Picture.jpg",
+    "Project/Tasks Overview.md",
     "Resources/Parts.md",
     "Resources/Bill Of Materials.md",
     "Archive/Proto V1 Power Supply System.md",
@@ -195,8 +168,6 @@
     "Archive/2024-07-29 motor control system diagram (Jacobus).jpg",
     "Archive/2024-08-23 motor enable circuit.png",
     "Archive/2024-08-23 final electronic circuit diagram.png",
-    "Welcome.md",
-    "People/Jacobus Buger.md",
     "People/Oliver (LinYun) Liu.md",
     "Resources/ROS 2 Overview.md",
     "Archive/2024-06-26 power plan (Jacobus).jpg",
@@ -204,7 +175,6 @@
     "Templates/People Template.md",
     "Templates/Note Template.md",
     "People",
-    "Project/Tasks Overview.md",
     "Archive/2024-06-14 robot body (Josh, Oliver).png",
     "Archive",
     "Research/Research.md",

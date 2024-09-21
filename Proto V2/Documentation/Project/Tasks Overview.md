@@ -12,14 +12,13 @@ tags:
 
 ## Todo
 
-- [ ] [Setup Remote Desktop for RPi4](Project/Tasks/Setup%20Remote%20Desktop%20for%20RPi4.md) @{2024-09-25}
-- [ ] Switch to ODrive S1 FOC Motor Conrollers
-- [ ] Add a block calendar or some other 5S approach to figure out people's times in the area
-- [ ] Create a calendar with each day and multiple colour stickers sitting next to it, then each person can add a colour sticker corresponding to them whenever they're in. This can help indicate who was in that day.
+- [ ] Switch to ODrive S1 FOC Motor Conrollers @{2024-09-27}
+- [ ] Create a calendar with each day and multiple colour stickers sitting next to it, then each person can add a colour sticker corresponding to them whenever they're in. This can help indicate who was in that day. @{2024-09-26}
 
 
 ## Doing
 
+- [ ] [Setup Remote Desktop for RPi4](Project/Tasks/Setup%20Remote%20Desktop%20for%20RPi4.md) @{2024-09-25}
 
 
 ## Done

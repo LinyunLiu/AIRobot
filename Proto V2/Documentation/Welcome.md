@@ -94,9 +94,9 @@ Overview: [Proto V1](Archive/Proto%20V1.md).
 - Jun Park - 
 - Josh Boelma - 
 - Oliver (LinYun) Liu - 
-- [Jacobus Buger](People/Jacobus%20Buger.md) - therealjacoburger@gmail.com
+- [Jacobus Burger](People/Jacobus%20Burger.md) - therealjacoburger@gmail.com
 ### Proto V2 (2024-09-16 to )
-- [Jacobus Buger](People/Jacobus%20Buger.md) - therealjacoburger@gmail.com
+- [Jacobus Burger](People/Jacobus%20Burger.md) - therealjacoburger@gmail.com
 - Finian ??? -
 - Elijah ??? -
 - Dominic ??? - 
