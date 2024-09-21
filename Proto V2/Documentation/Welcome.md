@@ -12,6 +12,15 @@ includeLinks: true # Make headings clickable
 debugInConsole: false # Print debug info in Obsidian console
 ```
 
+# Navigation Index
+- [Progress](Reports/Progress/Progress.md)
+- [Ideas](Ideas.md)
+- [Resources](Resources/Resources.md)
+- [Research](Research/Research.md)
+- [Procedures](Procedures.md)
+- [Tests](Reports/Tests/Tests.md)
+- [Incidents](Reports/Incidents/Incidents.md)
+- [Tasks Overview](Project/Tasks%20Overview.md)
 
 # Welcome to TWU RRU
 你好/Hola/Hello/مرحبًا/नमस्ते and **WELCOME** to the Trinity Western University Robotics Research Unit (TWU RRU)!
@@ -57,8 +66,6 @@ That is why this [Obsidian](https://obsidian.md) documentation is used this time
 - The video ["How labels multiply your knowledgebase, cash, time, on LOW effort."](https://www.youtube.com/watch?v=B1QqAZeEfes) goes into detail on how this approach is done.
 - You may have already observed some factor of it in the Data Assimilation Laboratory (One area is marked off with green tape as "TA Area", another as "RRU", and another as "Common Area" with physical seperators like bookshelves to create a deliniation between different areas and their uses).
 
-
-ensure explanations are provided, this should be great documentation to help any newcomers to the project. The structure of this should be simple enough for new users of the project and its future renditions to carry on after the pioneer team are gone.
 #  How to use this documentation
 ## Setup
 1. Install [Obsidian.md](https://obsidian.md) on your device
@@ -83,35 +90,19 @@ If any incidents occur (like robot going into walls, injuring people, etc), writ
 This note and most of the vault was originally made by Jacobus Burger (2024-09-08).
 ## Teams
 ### Proto V1 (2024-05-01 to 2024-08-31)
-
-- Jun Park
-- Josh Boelma
-- Oliver (LinYun) Liu
-- Jacobus Burger - therealjacoburger@gmail.com
+Overview: [Proto V1](Archive/Proto%20V1.md).
+- Jun Park - 
+- Josh Boelma - 
+- Oliver (LinYun) Liu - 
+- [Jacobus Buger](People/Jacobus%20Buger.md) - therealjacoburger@gmail.com
 ### Proto V2 (2024-09-16 to )
-- Jacobus Burger - therealjacoburger@gmail.com
-- Finian
-- Elijah
-- Dominic
-- Oliver
-- Noah
+- [Jacobus Buger](People/Jacobus%20Buger.md) - therealjacoburger@gmail.com
+- Finian ??? -
+- Elijah ??? -
+- Dominic ??? - 
+- [Oliver (LinYun) Liu](People/Oliver%20(LinYun)%20Liu.md) -
+- Noah ??? -
 
 
-
-meetings W 11:30am
-
-
-some way for people to mark times when they're in so other people can understand what they did.
-some way for people to mark times they're going to be in (on a calendar)
-Who worked on what.
-Source code.
-
-Discord for communications.
-Shared calendar for timing (and maybe a log-sheet for people to clock in when they're here and for how long)
-
-
-
-
-
-- ask group if they're good to get the odrive s1 modules (and email park about it)
-- finish the welcome, and make a summary of the previous workSummary of what the task is and what needs to be accomplished by i
+# Extra Notes
+- Meetings are Wednesday 11:30AM
