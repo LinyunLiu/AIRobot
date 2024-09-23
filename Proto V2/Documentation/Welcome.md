@@ -74,7 +74,7 @@ That is why this [Obsidian](https://obsidian.md) documentation is used this time
 4. Say yes to Trust when prompted so all plugins can be installed and activated
 
 ## Use
-When you make a note in any of the folders, just right-click the folder. Select "Create new note from template" and use the corresponding template.
+If templater plugin is setup correctly, then creating a new file in the respective folder should automatically trigger the corresponding template for that note.
 
 ## Index
 Each day please write a progress report in [Progress](Reports/Progress/Progress.md).

@@ -10,6 +10,6 @@ authors:
 
 ROS2 is an industry strandard and a favourite among hobbyists. You can read more at [Why ROS2](https://docs.ros.org/en/humble/_downloads/2a9c64e08982f3709e23d20e5dc9f294/ros2-brochure-ltr-web.pdf).
 
-The Link will provide you full information from installation to concepts and examples.
+The Link will provide you full information from installation to concepts and examples. Below will be a brief overview.
 
 (provide a summary of concepts down here...)
