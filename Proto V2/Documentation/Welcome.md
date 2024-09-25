@@ -15,8 +15,8 @@ debugInConsole: false # Print debug info in Obsidian console
 # Navigation Index
 - [Progress](Reports/Progress/Progress.md)
 - [Ideas](Ideas.md)
-- [[Q&A]]
 - [Resources](Resources/Resources.md)
+- [[Q&A]]
 - [Research](Research/Research.md)
 - [Procedures](Procedures.md)
 - [Tests](Reports/Tests/Tests.md)
@@ -32,11 +32,13 @@ debugInConsole: false # Print debug info in Obsidian console
 
 ## Use
 If templater plugin is setup correctly, then creating a new file in the respective folder should automatically trigger the corresponding template for that note.
+Add a file in the respective folder as needed. Typical use involved adding a note in [Progress](Reports/Progress/Progress.md) reporting what you did that day, and adding to-do's to the [Tasks Overview](Project/Tasks%20Overview.md).
 
 ## Index
 Each day please write a progress report in [Progress](Reports/Progress/Progress.md).
 If you have any ideas, put them in [Ideas](Ideas.md).
 If you find any helpful guides, tutorials, or other resources, put them in [Resources](Resources/Resources.md).
+For any questions you have, add them in [Q&A](Resources/Q&A.md) and try to answer any if you can.
 If you find any academic papers or resources using [Zoterro](https://www.zotero.org/), then put them in [Research](Research/Research.md).
 Please follow protocols/procedures and add any as needed in [Procedures](Procedures.md).
 If you do any tests, write a report in [Tests](Reports/Tests/Tests.md).

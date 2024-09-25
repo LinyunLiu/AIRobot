@@ -9,7 +9,7 @@ This is the **Questions** and **Answers** page. Write any questions down below a
 
 Example Format:
 - Question question question.
-	- Answer answer answer.
+	- Answer-er Name: Answer answer answer.
 
 # Questions and Answers
 - 
