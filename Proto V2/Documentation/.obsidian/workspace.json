@@ -49,21 +49,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7048611cd17466bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/ROS 2 Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reports/Progress/2024-09-25 Progress Report.md",
+                "file": "Project/Tasks/Setup Remote Desktop for RPi4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reports/Progress/2024-09-25 Progress Report.md",
+                "file": "Project/Tasks/Setup Remote Desktop for RPi4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reports/Progress/2024-09-25 Progress Report.md"
+                "file": "Project/Tasks/Setup Remote Desktop for RPi4.md"
               }
             }
           },
@@ -205,14 +193,15 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "350e0496c7465662",
+  "active": "4afe882e1fdc6af5",
   "lastOpenFiles": [
-    "Resources/ROS 2 Overview.md",
     "Reports/Progress/2024-09-25 Progress Report.md",
+    "Project/Tasks/Setup Remote Desktop for RPi4.md",
+    "Resources/ROS 2 Overview.md",
+    "Project/Tasks Overview.md",
+    "Ideas.md",
     "Resources/ROS 2 Overview 1.md",
     "Resources/Remote Desktop Setup.md",
-    "Project/Tasks/Setup Remote Desktop for RPi4.md",
-    "Project/Tasks Overview.md",
     "Procedures.md",
     "Templates/People Template.md",
     "People/Tia Burger.md",
@@ -220,7 +209,6 @@
     "People/Untitled",
     "Welcome.md",
     "People/Jacobus Burger.md",
-    "Ideas.md",
     "Resources/Q&A.md",
     "Reports/Progress/Progress.md",
     "Archive/Proto V1 Motor Control System Overview.md",
