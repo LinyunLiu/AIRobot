@@ -25,6 +25,8 @@ Hey! My name is Jacobus Burger. I was one of the founding members of the TWU RRU
 - ROS 2
 - Raspberry Pi 4
 - Hardware programming in Python 3
+- Linux administration
+- Docker
 - And much more
 
 I greatly enjoyed my time working in the TWU RRU, the people I met, the moments we all created together, and I hope that the work done here will continue to be built upon and lead to something great!

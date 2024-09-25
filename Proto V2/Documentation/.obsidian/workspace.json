@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "aa2e2c01e689aaa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reports/Progress/2024-09-24 Progress Report.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4afe882e1fdc6af5",
             "type": "leaf",
             "state": {
@@ -61,9 +49,17 @@
                 }
               }
             }
+          },
+          {
+            "id": "350e0496c7465662",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reports/Progress/2024-09-24 Progress Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reports/Progress/2024-09-24 Progress Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reports/Progress/2024-09-24 Progress Report.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,6 +184,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
+      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
@@ -200,23 +193,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": true,
-      "homepage:Open homepage": false,
       "cicada-sync:CI-SYNC": false,
       "templater-obsidian:Templater": true
     }
   },
-  "active": "aa2e2c01e689aaa8",
+  "active": "350e0496c7465662",
   "lastOpenFiles": [
+    "People/Jacobus Burger.md",
+    "Welcome.md",
+    "Reports/Progress/2024-09-24 Progress Report.md",
     "Project/Tasks Overview.md",
     "Resources/ROS 2 Overview.md",
-    "Reports/Progress/2024-09-24 Progress Report.md",
-    "Welcome.md",
     "Procedures.md",
     "Reports/Progress/Progress.md",
     "Resources/Untitled.md",
     "Archive/Proto V1.md",
     "Reports/Progress/2024-09-20 Progress Report.md",
-    "People/Jacobus Burger.md",
     "People/Jacobus Burger Picture.jpg",
     "Resources/Parts.md",
     "Resources/Bill Of Materials.md",
