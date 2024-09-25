@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d6344d4ce49107e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Procedures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4afe882e1fdc6af5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/Tasks/Setup Remote Desktop for RPi4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2b6f97275cfa4af4",
             "type": "leaf",
             "state": {
@@ -51,6 +27,18 @@
             }
           },
           {
+            "id": "4afe882e1fdc6af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/Tasks/Setup Remote Desktop for RPi4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "350e0496c7465662",
             "type": "leaf",
             "state": {
@@ -61,8 +49,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7048611cd17466bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/ROS 2 Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Procedures.md",
+                "file": "Reports/Progress/2024-09-25 Progress Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Procedures.md",
+                "file": "Reports/Progress/2024-09-25 Progress Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Procedures.md"
+                "file": "Reports/Progress/2024-09-25 Progress Report.md"
               }
             }
           },
@@ -204,12 +205,14 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "4d6344d4ce49107e",
+  "active": "350e0496c7465662",
   "lastOpenFiles": [
+    "Resources/ROS 2 Overview.md",
+    "Reports/Progress/2024-09-25 Progress Report.md",
+    "Resources/ROS 2 Overview 1.md",
+    "Resources/Remote Desktop Setup.md",
     "Project/Tasks/Setup Remote Desktop for RPi4.md",
     "Project/Tasks Overview.md",
-    "Reports/Progress/2024-09-25 Progress Report.md",
-    "Resources/ROS 2 Overview.md",
     "Procedures.md",
     "Templates/People Template.md",
     "People/Tia Burger.md",
@@ -239,8 +242,6 @@
     "Archive",
     "Research/Research.md",
     "Resources/Resources.md",
-    "Templates/Test Template.md",
-    "Templates/Task Template.md",
     "Notes",
     "Reports/Progress",
     "Resources/bill_of_materials.csv",

@@ -8,7 +8,7 @@ authors:
 ---
 
 # Overview
-Today I expanded on and added some new "domains" to the documentation.
+Today I expanded on documentation and added some new "domains" like [Q&A](Resources/Q&A.md). I also worked to setup 
 
 ## Details
 - Added additional information to [Proto V1 Motor Control System Overview](Archive/Proto%20V1%20Motor%20Control%20System%20Overview.md) about e-stop behaviour.
