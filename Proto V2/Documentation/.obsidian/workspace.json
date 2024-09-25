@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d523d90e25c5b11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4d6344d4ce49107e",
             "type": "leaf",
             "state": {
@@ -74,8 +62,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reports/Progress/2024-09-25 Progress Report.md",
+                "file": "Procedures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reports/Progress/2024-09-25 Progress Report.md",
+                "file": "Procedures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reports/Progress/2024-09-25 Progress Report.md"
+                "file": "Procedures.md"
               }
             }
           },
@@ -217,18 +204,22 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "350e0496c7465662",
+  "active": "4d6344d4ce49107e",
   "lastOpenFiles": [
-    "Ideas.md",
-    "Procedures.md",
+    "Templates/People Template.md",
+    "People/Tia Burger.md",
+    "People/Oliver (LinYun) Liu.md",
+    "People/Untitled",
     "Welcome.md",
+    "People/Jacobus Burger.md",
+    "Ideas.md",
+    "Reports/Progress/2024-09-25 Progress Report.md",
+    "Procedures.md",
     "Resources/Q&A.md",
     "Resources/ROS 2 Overview.md",
     "Project/Tasks Overview.md",
-    "Reports/Progress/2024-09-25 Progress Report.md",
     "Reports/Progress/Progress.md",
     "Archive/Proto V1 Motor Control System Overview.md",
-    "People/Jacobus Burger.md",
     "Reports/Progress/2024-09-24 Progress Report.md",
     "Archive/Proto V1.md",
     "Reports/Progress/2024-09-20 Progress Report.md",
@@ -239,10 +230,8 @@
     "Archive/2024-07-29 motor control system diagram (Jacobus).jpg",
     "Archive/2024-08-23 motor enable circuit.png",
     "Archive/2024-08-23 final electronic circuit diagram.png",
-    "People/Oliver (LinYun) Liu.md",
     "Archive/2024-06-26 power plan (Jacobus).jpg",
     "Resources/Proto V1 Electronics Overview.md",
-    "Templates/People Template.md",
     "Templates/Note Template.md",
     "People",
     "Archive/2024-06-14 robot body (Josh, Oliver).png",
@@ -252,14 +241,12 @@
     "Templates/Test Template.md",
     "Templates/Task Template.md",
     "Templates/Progress Template.md",
-    "Templates/Incident Template.md",
     "Notes",
     "Reports/Progress",
     "Resources/bill_of_materials.csv",
     "Resources/lu248985h6uq.tmp",
     "Resources/bill_of_materials.xlsx",
     "Resources",
-    "Research",
-    "Project/Tasks"
+    "Research"
   ]
 }
