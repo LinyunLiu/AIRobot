@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/ROS 2 Overview.md",
+                "file": "Project/Tasks/Setup Remote Desktop for RPi4.md",
                 "mode": "source",
                 "source": false
               }
@@ -206,6 +206,11 @@
   },
   "active": "4d6344d4ce49107e",
   "lastOpenFiles": [
+    "Project/Tasks/Setup Remote Desktop for RPi4.md",
+    "Project/Tasks Overview.md",
+    "Reports/Progress/2024-09-25 Progress Report.md",
+    "Resources/ROS 2 Overview.md",
+    "Procedures.md",
     "Templates/People Template.md",
     "People/Tia Burger.md",
     "People/Oliver (LinYun) Liu.md",
@@ -213,11 +218,7 @@
     "Welcome.md",
     "People/Jacobus Burger.md",
     "Ideas.md",
-    "Reports/Progress/2024-09-25 Progress Report.md",
-    "Procedures.md",
     "Resources/Q&A.md",
-    "Resources/ROS 2 Overview.md",
-    "Project/Tasks Overview.md",
     "Reports/Progress/Progress.md",
     "Archive/Proto V1 Motor Control System Overview.md",
     "Reports/Progress/2024-09-24 Progress Report.md",
@@ -240,7 +241,6 @@
     "Resources/Resources.md",
     "Templates/Test Template.md",
     "Templates/Task Template.md",
-    "Templates/Progress Template.md",
     "Notes",
     "Reports/Progress",
     "Resources/bill_of_materials.csv",
