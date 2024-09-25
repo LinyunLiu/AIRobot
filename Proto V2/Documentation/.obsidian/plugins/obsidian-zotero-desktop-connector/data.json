@@ -1,6 +1,6 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "literature",
+  "noteImportFolder": "Research",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "png",
   "pdfExportImageQuality": 90,
@@ -11,7 +11,14 @@
       "cslStyle": "ieee-with-url"
     }
   ],
-  "exportFormats": [],
+  "exportFormats": [
+    {
+      "name": "Import #1",
+      "outputPathTemplate": "Research/{{citekey}}/{{citekey}}.md",
+      "imageOutputPathTemplate": "Research/{{citekey}}/",
+      "imageBaseNameTemplate": "image"
+    }
+  ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
   "openNoteAfterImport": false,
   "whichNotesToOpenAfterImport": "first-imported-note",

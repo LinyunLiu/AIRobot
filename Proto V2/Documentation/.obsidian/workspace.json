@@ -8,11 +8,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "418efced010384b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "aa2e2c01e689aaa8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reports/Progress/2024-09-24 Progress Report.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -112,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           },
           {
@@ -184,11 +204,13 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "aa2e2c01e689aaa8",
+  "active": "418efced010384b4",
   "lastOpenFiles": [
+    "Reports/Progress/2024-09-24 Progress Report.md",
+    "Welcome.md",
     "Project/Tasks Overview.md",
     "Resources/ROS 2 Overview.md",
-    "Welcome.md",
+    "Reports/Progress/Progress.md",
     "Resources/Untitled.md",
     "Archive/Proto V1.md",
     "Reports/Progress/2024-09-20 Progress Report.md",
@@ -219,8 +241,6 @@
     "Notes/Notes.md",
     "Notes",
     "Reports/Incidents/Incidents.md",
-    "Project/Tasks/Setup Remote Desktop for RPi4.md",
-    "Project/Tasks/Make wheel spin.md",
     "Reports/Progress",
     "Resources/bill_of_materials.csv",
     "Resources/lu248985h6uq.tmp",
