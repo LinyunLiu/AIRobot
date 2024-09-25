@@ -15,6 +15,7 @@ debugInConsole: false # Print debug info in Obsidian console
 # Navigation Index
 - [Progress](Reports/Progress/Progress.md)
 - [Ideas](Ideas.md)
+- [[Q&A]]
 - [Resources](Resources/Resources.md)
 - [Research](Research/Research.md)
 - [Procedures](Procedures.md)

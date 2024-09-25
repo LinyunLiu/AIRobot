@@ -21,3 +21,8 @@ And an overview of the Motor Control System is provided below:
 _Motor Control System: An Overview_
 
 Notice that in both the circuit overview and motor control system that GPIO pins are listening in on the linear hall effect sensors within both the Left and Right motors. This information is read as input and triggers interrupts in software to calculate the tachometric data of each motor, determining their speed, direction of rotation, encoded position, and other information. More of that information can be found in the `taco.py` file in the source code.
+
+E-Stop behaviour for this Motor Control System works as follows:
+- when inactive, GPIO13 (Motor Enable Pin) can carry an on signal to the ME circuits (signified with red LEDs turning on), enabling output from DAC's to reach motor driver PWM/Signal pins.
+- when active, GPIO13 connection is disabled (and thus ME are disabled). Thus motors are unable to be turned back on until emergency stop button is pressed
+- at the same time, the motor controller code in `vel_controller.py` has a thread listening for input on GPIO6. When the E-Stop is activated, this will read 1/True, which will trigger the code to disable the motor enable circuit. This way, even when the emergency button is released, the motors stay disabled and need to be manually re-enabled.
