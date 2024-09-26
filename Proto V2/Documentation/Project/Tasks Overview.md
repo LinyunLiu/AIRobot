@@ -18,7 +18,6 @@ tags:
 
 ## Doing
 
-- [ ] [Setup Remote Desktop for RPi4](Project/Tasks/Setup%20Remote%20Desktop%20for%20RPi4.md) @{2024-09-25}
 
 
 ## Done

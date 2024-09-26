@@ -33,21 +33,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "350e0496c7465662",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reports/Progress/2024-09-25 Progress Report.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reports/Progress/2024-09-25 Progress Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reports/Progress/2024-09-25 Progress Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reports/Progress/2024-09-25 Progress Report.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,12 +173,15 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "350e0496c7465662",
+  "active": "4afe882e1fdc6af5",
   "lastOpenFiles": [
-    "Project/Tasks/Setup Remote Desktop for RPi4.md",
-    "Reports/Progress/2024-09-25 Progress Report.md",
-    "Resources/ROS 2 Overview.md",
+    "Reports/Progress/2024-09-26 Progress Report.md",
+    "Resources/Battery System Notes.md",
+    "Welcome.md",
     "Project/Tasks Overview.md",
+    "Reports/Progress/2024-09-25 Progress Report.md",
+    "Project/Tasks/Setup Remote Desktop for RPi4.md",
+    "Resources/ROS 2 Overview.md",
     "Ideas.md",
     "Resources/ROS 2 Overview 1.md",
     "Resources/Remote Desktop Setup.md",
@@ -203,7 +190,6 @@
     "People/Tia Burger.md",
     "People/Oliver (LinYun) Liu.md",
     "People/Untitled",
-    "Welcome.md",
     "People/Jacobus Burger.md",
     "Resources/Q&A.md",
     "Reports/Progress/Progress.md",
@@ -224,8 +210,6 @@
     "People",
     "Archive/2024-06-14 robot body (Josh, Oliver).png",
     "Archive",
-    "Research/Research.md",
-    "Resources/Resources.md",
     "Notes",
     "Reports/Progress",
     "Resources/bill_of_materials.csv",

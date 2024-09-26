@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCarBattery",
       "LiListTodo",
       "LiKanbanSquare",
       "LiCog",
-      "FasQuestion",
-      "FasLightbulb"
+      "FasQuestion"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,6 @@
   "Resources/Q&A.md": "FasQuestion",
   "Resources/Parts.md": "LiCog",
   "Project/Tasks Overview.md": "LiKanbanSquare",
-  "Project/Tasks": "LiListTodo"
+  "Project/Tasks": "LiListTodo",
+  "Resources/Battery System Notes.md": "FasCarBattery"
 }
