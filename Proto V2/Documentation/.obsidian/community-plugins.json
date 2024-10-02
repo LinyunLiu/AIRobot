@@ -13,5 +13,7 @@
   "obsidian-table-generator",
   "obsidian-csv-table",
   "templater-obsidian",
-  "waypoint"
+  "waypoint",
+  "convert-url-to-iframe",
+  "url-into-selection"
 ]

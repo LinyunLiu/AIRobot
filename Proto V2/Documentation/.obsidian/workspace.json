@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Resources/ROS 2 Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Resources/ROS 2 Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Resources/ROS 2 Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Resources/ROS 2 Overview.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   "active": "b4d7d525484f8344",
   "lastOpenFiles": [
     "Reports/Progress/2024-09-26 Progress Report.md",
-    "Resources/Battery System Notes.md",
     "Welcome.md",
+    "Resources/Battery System Notes.md",
     "Project/Tasks Overview.md",
     "Reports/Progress/2024-09-25 Progress Report.md",
     "Project/Tasks/Setup Remote Desktop for RPi4.md",

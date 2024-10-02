@@ -10,6 +10,15 @@ authors:
 
 ROS2 is an industry strandard and a favourite among hobbyists. You can read more at [Why ROS2](https://docs.ros.org/en/humble/_downloads/2a9c64e08982f3709e23d20e5dc9f294/ros2-brochure-ltr-web.pdf).
 
-The Link will provide you full information from installation to concepts and examples. Below will be a brief overview.
+# Videos
+Below are some great video series to explain ROS2 (and building a robot).
 
-(provide a summary of concepts down here...)
+## Robotics and Ros2 (recommended)
+<iframe src="https://www.youtube.com/embed/2lIV3dRvHmQ?list=PLunhqkrRNRhYYCaSTVP-qJnyUPkTxJnBt" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+
+<iframe src="https://www.youtube.com/embed/OWeLUSzxMsw?list=PLunhqkrRNRhYAffV8JDiFOatQXuU-NnxT" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+
+## ROS2 Humble Tutorial
+<iframe src="https://www.youtube.com/embed/0aPbWsyENA8?list=PLLSegLrePWgJudpPUof4-nVFHGkB62Izy" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+
+<iframe src="https://www.youtube.com/embed/QfFnljTrRlQ?list=PLNw2RD-1J5YZbyWXCpas9zPJldfphPi4Q" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
