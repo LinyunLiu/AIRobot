@@ -33,9 +33,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "b4d7d525484f8344",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           },
           {
@@ -173,7 +189,7 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "4afe882e1fdc6af5",
+  "active": "b4d7d525484f8344",
   "lastOpenFiles": [
     "Reports/Progress/2024-09-26 Progress Report.md",
     "Resources/Battery System Notes.md",
