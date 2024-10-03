@@ -9,8 +9,10 @@ This is where various parts lists, bills of materials, guides and tutorials, and
 
 %% Begin Waypoint %%
 - [[Battery System Notes]]
+- **Info**
+	- [[Motors and Electromagnetism]]
+	- [[ROS 2 Overview]]
 - [[Parts]]
 - [[Q&A]]
-- [[ROS 2 Overview]]
 
 %% End Waypoint %%

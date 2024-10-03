@@ -93,7 +93,7 @@ That is why this [Obsidian](https://obsidian.md) documentation is used this time
 This note and most of the vault was originally made by Jacobus Burger (2024-09-08).
 ## Teams
 ### Proto V1 (2024-05-01 to 2024-08-31)
-Overview: [Proto V1](Archive/Proto%20V1.md).
+Overview: [Proto V1](Archive/Proto%20V1/Proto%20V1.md).
 - Jun Park - 
 - Josh Boelma - 
 - Oliver (LinYun) Liu - 

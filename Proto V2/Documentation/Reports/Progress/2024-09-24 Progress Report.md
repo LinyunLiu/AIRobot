@@ -8,8 +8,8 @@ authors:
 ---
 
 # Overview
-Today I expanded upon the [ROS 2 Overview](Resources/ROS%202%20Overview.md) and [Welcome](Welcome.md) documentation.
+Today I expanded upon the [ROS 2 Overview](Resources/Info/ROS%202%20Overview.md) and [Welcome](Welcome.md) documentation.
 
 ## Details
-- Improved [ROS 2 Overview](Resources/ROS%202%20Overview.md)
+- Improved [ROS 2 Overview](Resources/Info/ROS%202%20Overview.md)
 - Improved [Welcome](Welcome.md) page

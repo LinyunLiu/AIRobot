@@ -4,11 +4,9 @@ tags:
 authors:
   - Jacobus Burger
 ---
-# Parts List
 
-These were the parts bought for the project.
-
-## [Proto V1](Archive/Proto%20V1.md)
+## [Proto V1](Archive/Proto%20V1/Proto%20V1.md)
+These are the parts inhereted from [Proto V1](Archive/Proto%20V1/Proto%20V1.md).
 - [Raspberry Pi 5 8GB](https://www.canakit.com/canakit-raspberry-pi-5-starter-kit-red-white.html)
 - [Raspberry Pi 4 8GB](https://www.amazon.ca/CanaKit-Raspberry-Starter-Kit-8GB/dp/B08DHC7KG8/ref=sr_1_2?crid=1I4DLOP72SVX0&dib=eyJ2IjoiMSJ9.Er3kxyNW7MVe6jX6fO_os4_j30uR_FRZM3neZAWKjfz9rbwepgP4QASnURxf9zut0D-y2YZib9UouZS_BGFV0Zz-oO93FWw698ieV7NJ44nr96ITdV3V4NR85lYHFJfALIhjGnjcbUtzAF3fDPfFNeBTQIBVvTYSu5tZgByZNjUWmxjp8RuIv-wU7-DfbHoe1A9ilVitBhq6rbHEXePWF-tzp-tDTg2Rf1K4QOWiCxSFjLDzgS3UbzMcwn9oaL4lSDAw3sC0E7qb2P6CmYKKgsEJKnAzn8PvV8_s3OMfAAA.OH21ZBO0yw3lsdUOJTclQvgl6I4Y3I-ME6nSxrzfFAo&dib_tag=se&keywords=raspberry%2Bpi%2B4%2BB%2B8GB%2Bcanakit&qid=1720821522&sprefix=raspberry%2Bpi%2B4%2Bb%2B8gb%2Bcanaki%2Caps%2C157&sr=8-2&th=1)
 - Hoverboard
@@ -25,3 +23,14 @@ These were the parts bought for the project.
 - [Foam Bumpers](https://www.amazon.ca/Roving-Cove-Corners-Corner-Cushion/dp/B00PTL668U)
 - [Emergency Stop Button NC NO](https://www.amazon.ca/Baomain-Emergency-Button-Weatherproof-Pushbutton/dp/B00NTT91Y0/ref=pd_day0_d_sccl_3_3/141-8270664-9911469?pd_rd_w=U7V7M&content-id=amzn1.sym.a0f07c06-3bfe-427e-9527-5be8cea27b66&pf_rd_p=a0f07c06-3bfe-427e-9527-5be8cea27b66&pf_rd_r=KFWDJAX9CDV9FKGVR00Z&pd_rd_wg=skF04&pd_rd_r=28aa22d0-6608-4209-b117-0473a23b1fe1&pd_rd_i=B00NTT91Y0&psc=1)
 - [High precision 9DOF IMU](https://www.amazon.ca/Adafruit-Absolute-Orientation-Fusion-Breakout/dp/B017PEIGIG/ref=pd_ci_mcx_mh_mcx_views_0?pd_rd_w=4ie8i&content-id=amzn1.sym.d89e4a4e-5696-4c12-9830-260f358f425a:amzn1.symc.40e6a10e-cbc4-4fa5-81e3-4435ff64d03b&pf_rd_p=d89e4a4e-5696-4c12-9830-260f358f425a&pf_rd_r=AXEK9WNYV47K6QFV9647&pd_rd_wg=DWuFf&pd_rd_r=0271ef90-03cf-4ced-a6ae-542d8a3a7236&pd_rd_i=B017PEIGIG)
+
+# Proto V2
+
+## Received
+- 
+
+## Ordered
+- [GL.iNet GL-MT300N-V2 (Mango) Travel Router](https://www.amazon.ca/GL-MT300N-V2-Converter-Pre-Installed-Performance-Compatible/dp/B073TSK26W/ref=sr_1_5?crid=29DKJEY3M7NXV&dib=eyJ2IjoiMSJ9.hs1OPJDykvs6nbvLopN23XydX83ini845R0qRufj6qSVl6Kx5I0MZi5Bfv5-7OdAEQ3x_J9l6CJRMn_BFAspwGJ9KH7ficH0l1zZf_c4rg_ptPxfSf7xpr0dOtePWotU6C7gNFLVLixmGQhiQ_I7b_2B4tjJNKlc81o3D4OhP-CRHMcEDn22eicJRNsO4nmpird1DZS24FzesuoR712VS5Kjr0EpIKLX0nCbIgDwJBO-FB896Yv6iy1V7ZoLvo6g77reMwctOBw9SeXGJUqyQsaMePTvVA3bQu5wYEkgSmw.SHrykZl0qgtsIumevlO_UWo37A2SX0sxdXiS4Tfchy8&dib_tag=se&keywords=mango+router&qid=1727906824&sprefix=mango+rout%2Caps%2C135&sr=8-5)
+
+## Wanted
+- 

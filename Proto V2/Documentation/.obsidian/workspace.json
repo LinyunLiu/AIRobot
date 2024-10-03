@@ -11,43 +11,24 @@
             "id": "2b6f97275cfa4af4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Project/Tasks Overview.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
             "id": "4afe882e1fdc6af5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b4d7d525484f8344",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/ROS 2 Overview.md",
+                "file": "Reports/Progress/2024-10-02 Progress Report.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/ROS 2 Overview.md",
+                "file": "Reports/Progress/2024-10-02 Progress Report.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/ROS 2 Overview.md",
+                "file": "Reports/Progress/2024-10-02 Progress Report.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/ROS 2 Overview.md"
+                "file": "Reports/Progress/2024-10-02 Progress Report.md"
               }
             }
           },
@@ -189,15 +170,22 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "b4d7d525484f8344",
+  "active": "4afe882e1fdc6af5",
   "lastOpenFiles": [
+    "Reports/Progress/Progress.md",
+    "Project/Tasks Overview.md",
+    "Reports/Progress/2024-10-02 Progress Report.md",
+    "Resources/Info/Motors and Electromagnetism.md",
+    "Resources/Parts.md",
+    "Resources/Info",
+    "Archive/Proto V1/Proto V1 Power Supply System.md",
+    "Archive/Proto V1",
+    "Resources/Info/ROS 2 Overview.md",
     "Reports/Progress/2024-09-26 Progress Report.md",
     "Welcome.md",
     "Resources/Battery System Notes.md",
-    "Project/Tasks Overview.md",
     "Reports/Progress/2024-09-25 Progress Report.md",
     "Project/Tasks/Setup Remote Desktop for RPi4.md",
-    "Resources/ROS 2 Overview.md",
     "Ideas.md",
     "Resources/ROS 2 Overview 1.md",
     "Resources/Remote Desktop Setup.md",
@@ -208,21 +196,16 @@
     "People/Untitled",
     "People/Jacobus Burger.md",
     "Resources/Q&A.md",
-    "Reports/Progress/Progress.md",
-    "Archive/Proto V1 Motor Control System Overview.md",
+    "Archive/Proto V1/Proto V1 Motor Control System Overview.md",
     "Reports/Progress/2024-09-24 Progress Report.md",
-    "Archive/Proto V1.md",
+    "Archive/Proto V1/Proto V1.md",
     "Reports/Progress/2024-09-20 Progress Report.md",
     "People/Jacobus Burger Picture.jpg",
-    "Resources/Parts.md",
     "Resources/Bill Of Materials.md",
-    "Archive/Proto V1 Power Supply System.md",
-    "Archive/2024-07-29 motor control system diagram (Jacobus).jpg",
-    "Archive/2024-08-23 motor enable circuit.png",
-    "Archive/2024-08-23 final electronic circuit diagram.png",
-    "Archive/2024-06-26 power plan (Jacobus).jpg",
-    "Resources/Proto V1 Electronics Overview.md",
-    "Templates/Note Template.md",
+    "Archive/Proto V1/2024-07-29 motor control system diagram (Jacobus).jpg",
+    "Archive/Proto V1/2024-08-23 motor enable circuit.png",
+    "Archive/Proto V1/2024-08-23 final electronic circuit diagram.png",
+    "Archive/Proto V1/2024-06-26 power plan (Jacobus).jpg",
     "People",
     "Archive/2024-06-14 robot body (Josh, Oliver).png",
     "Archive",
@@ -230,8 +213,6 @@
     "Reports/Progress",
     "Resources/bill_of_materials.csv",
     "Resources/lu248985h6uq.tmp",
-    "Resources/bill_of_materials.xlsx",
-    "Resources",
-    "Research"
+    "Resources/bill_of_materials.xlsx"
   ]
 }
