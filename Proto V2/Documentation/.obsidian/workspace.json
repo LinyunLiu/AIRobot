@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d9851c64050abde8",
+        "id": "0be7cdbcb1713258",
         "type": "tabs",
         "children": [
           {
-            "id": "9271ab71eff44cff",
+            "id": "cf6299a28f19a0f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           },
           {
@@ -161,16 +153,19 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "9271ab71eff44cff",
+  "active": "cf6299a28f19a0f3",
   "lastOpenFiles": [
+    "Welcome.md",
+    "People/Jacobus Burger.md",
+    "Project/Tasks Overview.md",
+    "Project/Tasks/Switch to ODrive S1 FOC Motor Conrollers @{2024-10-04}.md",
+    "Project/Tasks",
     "Archive/Proto V1/Proto V1.md",
     "Archive/Proto V1/2024-06-14 robot body (Josh, Oliver).png",
-    "Welcome.md",
     "Resources/Info/Info.md",
     "Resources/Resources.md",
     "Reports/Progress/2024-10-02 Progress Report.md",
     "Reports/Progress/Progress.md",
-    "Project/Tasks Overview.md",
     "Resources/Info/Motors and Electromagnetism.md",
     "Resources/Parts.md",
     "Resources/Info",
@@ -189,10 +184,8 @@
     "People/Tia Burger.md",
     "People/Oliver (LinYun) Liu.md",
     "People/Untitled",
-    "People/Jacobus Burger.md",
     "Resources/Q&A.md",
     "Archive/Proto V1/Proto V1 Motor Control System Overview.md",
-    "Reports/Progress/2024-09-24 Progress Report.md",
     "People/Jacobus Burger Picture.jpg",
     "Archive/Proto V1/2024-07-29 motor control system diagram (Jacobus).jpg",
     "Archive/Proto V1/2024-08-23 motor enable circuit.png",
@@ -204,7 +197,6 @@
     "Notes",
     "Reports/Progress",
     "Resources/bill_of_materials.csv",
-    "Resources/lu248985h6uq.tmp",
-    "Resources/bill_of_materials.xlsx"
+    "Resources/lu248985h6uq.tmp"
   ]
 }
