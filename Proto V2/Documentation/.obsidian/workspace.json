@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "47844e18fc96fa85",
+        "id": "d9851c64050abde8",
         "type": "tabs",
         "children": [
           {
-            "id": "2b6f97275cfa4af4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4afe882e1fdc6af5",
+            "id": "9271ab71eff44cff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reports/Progress/2024-10-02 Progress Report.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reports/Progress/2024-10-02 Progress Report.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reports/Progress/2024-10-02 Progress Report.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reports/Progress/2024-10-02 Progress Report.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -170,11 +161,16 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "4afe882e1fdc6af5",
+  "active": "9271ab71eff44cff",
   "lastOpenFiles": [
+    "Archive/Proto V1/Proto V1.md",
+    "Archive/Proto V1/2024-06-14 robot body (Josh, Oliver).png",
+    "Welcome.md",
+    "Resources/Info/Info.md",
+    "Resources/Resources.md",
+    "Reports/Progress/2024-10-02 Progress Report.md",
     "Reports/Progress/Progress.md",
     "Project/Tasks Overview.md",
-    "Reports/Progress/2024-10-02 Progress Report.md",
     "Resources/Info/Motors and Electromagnetism.md",
     "Resources/Parts.md",
     "Resources/Info",
@@ -182,7 +178,6 @@
     "Archive/Proto V1",
     "Resources/Info/ROS 2 Overview.md",
     "Reports/Progress/2024-09-26 Progress Report.md",
-    "Welcome.md",
     "Resources/Battery System Notes.md",
     "Reports/Progress/2024-09-25 Progress Report.md",
     "Project/Tasks/Setup Remote Desktop for RPi4.md",
@@ -198,10 +193,7 @@
     "Resources/Q&A.md",
     "Archive/Proto V1/Proto V1 Motor Control System Overview.md",
     "Reports/Progress/2024-09-24 Progress Report.md",
-    "Archive/Proto V1/Proto V1.md",
-    "Reports/Progress/2024-09-20 Progress Report.md",
     "People/Jacobus Burger Picture.jpg",
-    "Resources/Bill Of Materials.md",
     "Archive/Proto V1/2024-07-29 motor control system diagram (Jacobus).jpg",
     "Archive/Proto V1/2024-08-23 motor enable circuit.png",
     "Archive/Proto V1/2024-08-23 final electronic circuit diagram.png",

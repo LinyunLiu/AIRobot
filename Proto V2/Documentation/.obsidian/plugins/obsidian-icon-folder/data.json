@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasCircleInfo",
-      "LiCircuitBoard",
-      "OcLog16",
-      "FasCarBattery",
-      "LiListTodo"
+      "FasNoteSticky",
+      "OcAlertFill16",
+      "FasPaperclip",
+      "FasBook",
+      "LiTestTube2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,7 +39,7 @@
   "Reports/Incidents": "OcAlertFill16",
   "Reports/Progress": "FasNoteSticky",
   "Reports/Tests": "LiTestTube2",
-  "Research": "FasBookJournalWhills",
+  "Research": "FasBook",
   "Welcome.md": "OcHomeFill24",
   "Procedures.md": "OcAlertFill16",
   "Ideas.md": "FasLightbulb",
@@ -49,5 +49,12 @@
   "Project/Tasks": "LiListTodo",
   "Resources/Battery System Notes.md": "FasCarBattery",
   "Archive/Proto V1": "LiCircuitBoard",
-  "Resources/Info": "FasCircleInfo"
+  "Resources/Info": "FasCircleInfo",
+  "Resources/Info/Info.md": "FasCircleInfo",
+  "Reports/Tests/Tests.md": "LiTestTube2",
+  "Research/Research.md": "FasBook",
+  "Resources": "FasPaperclip",
+  "Resources/Resources.md": "FasPaperclip",
+  "Reports/Incidents/Incidents.md": "OcAlertFill16",
+  "Reports/Progress/Progress.md": "FasNoteSticky"
 }

@@ -9,7 +9,9 @@ tags:
 # What was [Proto V1](Archive/Proto%20V1/Proto%20V1.md)?
 Proto V1 was the first rendition of the Proto(type) Robotics Platform here at the TWU RRU.
 
-(picture goes here)
+
+(need to add a picture here)
+
 
 Proto V1 was the first ever robot built at TWU, and from scratch on top of that! It was a pioneer project with ambitious goals to build a fully autonomous book deliver robot in just 4 months over the summer semester.
 The project did not succeed in its original goals, but through it the RRU was able to accumulate a lot of experience and knowledge that is now contained in [this documentation](Welcome.md).

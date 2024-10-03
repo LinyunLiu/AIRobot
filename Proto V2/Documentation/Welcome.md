@@ -16,7 +16,7 @@ debugInConsole: false # Print debug info in Obsidian console
 - [Progress](Reports/Progress/Progress.md)
 - [Ideas](Ideas.md)
 - [Resources](Resources/Resources.md)
-- [[Q&A]]
+- [Q&A](Resources/Q&A.md)
 - [Research](Research/Research.md)
 - [Procedures](Procedures.md)
 - [Tests](Reports/Tests/Tests.md)
