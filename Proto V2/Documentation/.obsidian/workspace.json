@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0be7cdbcb1713258",
+        "id": "d79e74d4ed1ee214",
         "type": "tabs",
         "children": [
           {
-            "id": "cf6299a28f19a0f3",
+            "id": "ab941fb11a9e82b6",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "2c68066054a5f07f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Progress Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Progress Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Progress Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Progress Template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,11 +153,13 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "2c68066054a5f07f",
+  "active": "ab941fb11a9e82b6",
   "lastOpenFiles": [
-    "Reports/Progress/2024-10-06 Progress Report.md",
-    "Resources/Parts.md",
+    "Resources/Q&A.md",
     "Welcome.md",
+    "Reports/Progress/2024-10-06 Progress Report.md",
+    "Templates/Progress Template.md",
+    "Resources/Parts.md",
     "Reports/Progress/2024-10-03 Progress Report.md",
     "Resources/Info/Motors and Electromagnetism.md",
     "People/Jacobus Burger.md",
@@ -200,8 +185,6 @@
     "Resources/Remote Desktop Setup.md",
     "Procedures.md",
     "Templates/People Template.md",
-    "People/Tia Burger.md",
-    "People/Oliver (LinYun) Liu.md",
     "People/Untitled",
     "People/Jacobus Burger Picture.jpg",
     "Archive/Proto V1/2024-07-29 motor control system diagram (Jacobus).jpg",

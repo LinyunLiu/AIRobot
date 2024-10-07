@@ -8,4 +8,4 @@ authors:
 ---
 
 # Overview
-I wrote down the cost of parts so far for a Bill of Materials we can make in the future.
+I wrote down the cost of [Parts](Resources/Parts.md) so far for a Bill of Materials we can make in the future.
