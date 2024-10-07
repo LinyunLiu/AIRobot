@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Parts.md",
+                "file": "Templates/Progress Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Parts.md",
+                "file": "Templates/Progress Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Parts.md",
+                "file": "Templates/Progress Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Parts.md"
+                "file": "Templates/Progress Template.md"
               }
             }
           },
@@ -172,8 +172,9 @@
   },
   "active": "2c68066054a5f07f",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Reports/Progress/2024-10-06 Progress Report.md",
     "Resources/Parts.md",
+    "Welcome.md",
     "Reports/Progress/2024-10-03 Progress Report.md",
     "Resources/Info/Motors and Electromagnetism.md",
     "People/Jacobus Burger.md",
@@ -202,7 +203,6 @@
     "People/Tia Burger.md",
     "People/Oliver (LinYun) Liu.md",
     "People/Untitled",
-    "Resources/Q&A.md",
     "People/Jacobus Burger Picture.jpg",
     "Archive/Proto V1/2024-07-29 motor control system diagram (Jacobus).jpg",
     "Archive/Proto V1/2024-08-23 motor enable circuit.png",
