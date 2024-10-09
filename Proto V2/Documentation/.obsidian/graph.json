@@ -16,7 +16,12 @@
   "centerStrength": 0.510416666666667,
   "repelStrength": 20,
   "linkStrength": 1,
+<<<<<<< HEAD
   "linkDistance": 30,
   "scale": 0.4566220706949756,
+=======
+  "linkDistance": 133,
+  "scale": 0.6189069269586797,
+>>>>>>> 7f7571d (chore: vault backup from jacobus at 2024-10-09T12:32)
   "close": false
 }
