@@ -4,15 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "b4eee6dafb209659",
+        "id": "97152d370e0a633e",
         "type": "tabs",
         "children": [
           {
-            "id": "2e168ad0e803a52e",
+            "id": "0a0cd341d41341c2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Project/Tasks Overview.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              }
             }
           }
         ]
@@ -65,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a54e5334bfa163bd",
@@ -82,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project/Tasks Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project/Tasks Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project/Tasks Overview.md"
+              }
             }
           },
           {
@@ -135,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,8 +167,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2e168ad0e803a52e",
+  "active": "0a0cd341d41341c2",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Untitled.canvas",
     "Resources/Info/ROS 2 Overview.md",
     "Resources/Info/Motors and Electromagnetism.md",
     "Resources/Info/Info.md",
@@ -179,7 +194,6 @@
     "Templates/Progress Template.md",
     "Templates/Task Template.md",
     "Templates/Test Template.md",
-    "Welcome.md",
     "Resources/ROS 2 Overview.md",
     "People/Jun Park.md",
     "Resources/Parts.md",
@@ -187,7 +201,6 @@
     "Procedures.md",
     "Research/Research.md",
     "Reports/Progress/2024-09-26 Progress Report.md",
-    "Reports/Progress/2024-09-25 Progress Report.md",
     "People/Untitled",
     "People/Jacobus Burger Picture.jpg",
     "Archive/2024-07-29 motor control system diagram (Jacobus).jpg",
