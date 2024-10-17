@@ -11,12 +11,10 @@
             "id": "50807f7438d54b3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,9 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -134,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -148,7 +158,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": true,
-      "homepage:Open homepage": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
@@ -163,10 +172,12 @@
   },
   "active": "50807f7438d54b3e",
   "lastOpenFiles": [
+    "Reports/Progress/2024-10-17 Progress Report.md",
+    "Reports/Tests/vel_control demo.md",
+    "Welcome.md",
     "Reports/Progress/2024-10-16 Progress Report.md",
     "People/Jacobus Burger.md",
     "People/Oliver (LinYun) Liu.md",
-    "Welcome.md",
     "People/Jun Park.md",
     "Reports/Progress/2024-10-06 Progress Report.md",
     "Untitled.canvas",
@@ -192,8 +203,6 @@
     "Reports/Progress/2024-09-26 Progress Report.md",
     "Resources/Battery System Notes.md",
     "Reports/Progress/2024-09-25 Progress Report.md",
-    "Project/Tasks/Setup Remote Desktop for RPi4.md",
-    "Ideas.md",
     "People/Untitled",
     "People/Jacobus Burger Picture.jpg",
     "Archive/Proto V1/2024-07-29 motor control system diagram (Jacobus).jpg",
