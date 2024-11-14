@@ -1,0 +1,12 @@
+{
+  "show-checkboxes": true,
+  "new-card-insertion-method": "append",
+  "full-list-lane-width": true,
+  "move-tags": true,
+  "move-dates": true,
+  "show-relative-date": true,
+  "archive-with-date": false,
+  "append-archive-date": true,
+  "inline-metadata-position": "body",
+  "new-note-folder": "Project/Tasks"
+}

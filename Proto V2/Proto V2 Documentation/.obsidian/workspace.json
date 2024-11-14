@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "8bd199af54ef4bf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d0a0b8af41dd57c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50807f7438d54b3e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fad531c7c70746f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "56a4926a91e7f103",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f96f2f38e868fc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4087829c68d83803",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c049116454c5c15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a54e5334bfa163bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b64a6429173d8fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afbd2e3d4d5147cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c7e3f3e00b1f9f34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cee5d4c8c6988e74",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f2a22dac90c00655",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "54358f1ba7bfa1d8",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "cicada-sync:CI-SYNC": false,
+      "templater-obsidian:Templater": true
+    }
+  },
+  "active": "50807f7438d54b3e",
+  "lastOpenFiles": [
+    "Reports/Progress/2024-10-17 Progress Report.md",
+    "Reports/Tests/vel_control demo.md",
+    "Welcome.md",
+    "Reports/Progress/2024-10-16 Progress Report.md",
+    "People/Jacobus Burger.md",
+    "People/Oliver (LinYun) Liu.md",
+    "People/Jun Park.md",
+    "Reports/Progress/2024-10-06 Progress Report.md",
+    "Untitled.canvas",
+    "Templates/Create URDF.md",
+    "Reports/Progress/2024-10-02 Progress Report.md",
+    "Resources/Q&A.md",
+    "Templates/Progress Template.md",
+    "Resources/Parts.md",
+    "Reports/Progress/2024-10-03 Progress Report.md",
+    "Resources/Info/Motors and Electromagnetism.md",
+    "Project/Tasks Overview.md",
+    "Project/Tasks/Switch to ODrive S1 FOC Motor Conrollers @{2024-10-04}.md",
+    "Project/Tasks",
+    "Archive/Proto V1/Proto V1.md",
+    "Archive/Proto V1/2024-06-14 robot body (Josh, Oliver).png",
+    "Resources/Info/Info.md",
+    "Resources/Resources.md",
+    "Reports/Progress/Progress.md",
+    "Resources/Info",
+    "Archive/Proto V1/Proto V1 Power Supply System.md",
+    "Archive/Proto V1",
+    "Resources/Info/ROS 2 Overview.md",
+    "Reports/Progress/2024-09-26 Progress Report.md",
+    "Resources/Battery System Notes.md",
+    "Reports/Progress/2024-09-25 Progress Report.md",
+    "People/Untitled",
+    "People/Jacobus Burger Picture.jpg",
+    "Archive/Proto V1/2024-07-29 motor control system diagram (Jacobus).jpg",
+    "Archive/Proto V1/2024-08-23 motor enable circuit.png",
+    "Archive/Proto V1/2024-08-23 final electronic circuit diagram.png",
+    "Archive/Proto V1/2024-06-26 power plan (Jacobus).jpg",
+    "People",
+    "Archive/2024-06-14 robot body (Josh, Oliver).png",
+    "Archive",
+    "Notes",
+    "Reports/Progress",
+    "Resources/bill_of_materials.csv",
+    "Resources/lu248985h6uq.tmp"
+  ]
+}
