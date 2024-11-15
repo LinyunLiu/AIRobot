@@ -8,7 +8,7 @@ tags:
 
 ## Later
 
-- [ ] [Create URDF](Templates/Create%20URDF.md)
+- [ ] [Create URDF](Resources/Info/Create%20URDF.md)
 	Need Proper size for our robot, so that simulation world can caculate the cost map, speed, etc.
 
 

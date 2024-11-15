@@ -10,5 +10,7 @@ This is all the progress reports of the project over time
 - [[2024-10-06 Progress Report]]
 - [[2024-10-16 Progress Report]]
 - [[2024-10-17 Progress Report]]
+- [[2024-11-07 Progress Report]]
+- [[2024-11-14 Progress Report]]
 
 %% End Waypoint %%

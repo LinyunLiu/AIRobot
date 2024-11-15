@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0a0b8af41dd57c",
+        "id": "bac0c1dc3af52d11",
         "type": "tabs",
         "children": [
           {
-            "id": "50807f7438d54b3e",
+            "id": "1b122d79441d21f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Proto V1/Proto V1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proto V1"
+            }
+          },
+          {
+            "id": "46e22ef7b542a397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/ODrive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ODrive"
+            }
+          },
+          {
+            "id": "eb45d96ed2b447fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reports/Progress/2024-11-14 Progress Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-14 Progress Report"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,42 +203,41 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "50807f7438d54b3e",
+  "active": "46e22ef7b542a397",
   "lastOpenFiles": [
+    "Reports/Progress/2024-11-14 Progress Report.md",
+    "Untitled.canvas",
+    "Resources/Info/Create URDF.md",
+    "Reports/Progress/2024-11-07 Progress Report.md",
+    "Resources/ODrive.md",
+    "Resources/Info/Field Oriented Control.md",
+    "Resources/Info/Motors and Electromagnetism.md",
+    "Archive/Proto V1/Proto V1.md",
+    "Reports/Progress/2024-09-20 Progress Report.md",
+    "Resources/Q&A.md",
+    "Archive/Proto V1/Proto V1 Motor Control System Overview.md",
+    "Archive/Proto V1/Proto V1 Power Supply System.md",
+    "Archive/Proto V1/2024-07-29 motor control system diagram (Jacobus).jpg",
+    "People/Jun Park.md",
     "Reports/Progress/2024-10-17 Progress Report.md",
     "Reports/Tests/vel_control demo.md",
     "Welcome.md",
     "Reports/Progress/2024-10-16 Progress Report.md",
     "People/Jacobus Burger.md",
     "People/Oliver (LinYun) Liu.md",
-    "People/Jun Park.md",
     "Reports/Progress/2024-10-06 Progress Report.md",
-    "Untitled.canvas",
-    "Templates/Create URDF.md",
     "Reports/Progress/2024-10-02 Progress Report.md",
-    "Resources/Q&A.md",
     "Templates/Progress Template.md",
     "Resources/Parts.md",
     "Reports/Progress/2024-10-03 Progress Report.md",
-    "Resources/Info/Motors and Electromagnetism.md",
     "Project/Tasks Overview.md",
     "Project/Tasks/Switch to ODrive S1 FOC Motor Conrollers @{2024-10-04}.md",
     "Project/Tasks",
-    "Archive/Proto V1/Proto V1.md",
     "Archive/Proto V1/2024-06-14 robot body (Josh, Oliver).png",
-    "Resources/Info/Info.md",
-    "Resources/Resources.md",
-    "Reports/Progress/Progress.md",
     "Resources/Info",
-    "Archive/Proto V1/Proto V1 Power Supply System.md",
     "Archive/Proto V1",
-    "Resources/Info/ROS 2 Overview.md",
-    "Reports/Progress/2024-09-26 Progress Report.md",
-    "Resources/Battery System Notes.md",
-    "Reports/Progress/2024-09-25 Progress Report.md",
     "People/Untitled",
     "People/Jacobus Burger Picture.jpg",
-    "Archive/Proto V1/2024-07-29 motor control system diagram (Jacobus).jpg",
     "Archive/Proto V1/2024-08-23 motor enable circuit.png",
     "Archive/Proto V1/2024-08-23 final electronic circuit diagram.png",
     "Archive/Proto V1/2024-06-26 power plan (Jacobus).jpg",

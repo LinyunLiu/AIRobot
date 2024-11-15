@@ -10,6 +10,7 @@ This is where various parts lists, bills of materials, guides and tutorials, and
 %% Begin Waypoint %%
 - [[Battery System Notes]]
 - **[[Info]]**
+- [[ODrive]]
 - [[Parts]]
 - [[Q&A]]
 

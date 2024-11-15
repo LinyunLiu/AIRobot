@@ -21,3 +21,10 @@ Proto V1 at completion by 2024-08-30 was a teleoperated robot controlled through
 - [Motor Control System](Archive/Proto%20V1/Proto%20V1%20Motor%20Control%20System%20Overview.md)
 - [Power Supply System](Archive/Proto%20V1/Proto%20V1%20Power%20Supply%20System.md)
 - Control System is just Raspberry Pi 4, ROS2 (with Nav2 module), and [Python 3](https://www.python.org/) code run with [gpiozero](https://gpiozero.readthedocs.io/en/latest/) code.
+
+# Flaws
+
+There were some flaws with with the system.
+1. Because the BLDC motors were [ESC](https://www.tytorobotics.com/blogs/articles/what-is-an-esc-how-does-an-esc-work?srsltid=AfmBOopTrgME3qIPAx8bXEjr9je65uH3d2aY-UnsB7Ey80KPHAqlsR3q) controlled with the original [Proto V1 Motor Control System](Archive/Proto%20V1/Proto%20V1%20Motor%20Control%20System%20Overview.md), when the motors were deactivated upon arriving at a programmed position, or were deactivated in an emergency, there was nothing to maintain the position of the robot or stop it from rolling, which led to multiple failures in precision, navigation, and proper safety.
+2. The majority of electronic circuitry was just used to wrangle/control the motors using the [Proto V1 Motor Control System](Archive/Proto%20V1/Proto%20V1%20Motor%20Control%20System%20Overview.md).
+3. 
