@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bac0c1dc3af52d11",
+        "id": "60a4479218bcc39b",
         "type": "tabs",
         "children": [
           {
-            "id": "1b122d79441d21f8",
+            "id": "26ccf56f7d09f046",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Proto V1/Proto V1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Proto V1"
-            }
-          },
-          {
-            "id": "46e22ef7b542a397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/ODrive.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ODrive"
-            }
-          },
-          {
-            "id": "eb45d96ed2b447fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reports/Progress/2024-11-14 Progress Report.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-14 Progress Report"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,16 +170,16 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "46e22ef7b542a397",
+  "active": "26ccf56f7d09f046",
   "lastOpenFiles": [
+    "Archive/Proto V1/Proto V1.md",
+    "Resources/ODrive.md",
     "Reports/Progress/2024-11-14 Progress Report.md",
     "Untitled.canvas",
     "Resources/Info/Create URDF.md",
     "Reports/Progress/2024-11-07 Progress Report.md",
-    "Resources/ODrive.md",
     "Resources/Info/Field Oriented Control.md",
     "Resources/Info/Motors and Electromagnetism.md",
-    "Archive/Proto V1/Proto V1.md",
     "Reports/Progress/2024-09-20 Progress Report.md",
     "Resources/Q&A.md",
     "Archive/Proto V1/Proto V1 Motor Control System Overview.md",

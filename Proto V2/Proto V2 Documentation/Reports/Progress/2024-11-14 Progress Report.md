@@ -8,7 +8,9 @@ authors:
 ---
 
 # Overview
-Today I wrote some documentation and information to expand on points and provide more info. Such as [Field Oriented Control](Resources/Info/Field%20Oriented%20Control.md), [ODrive](Resources/ODrive.md)
+Today I wrote some documentation and information to expand on points and provide more info. Such as [Field Oriented Control](Resources/Info/Field%20Oriented%20Control.md), [ODrive](Resources/ODrive.md), and wrote the [2024-11-07 Progress Report](Reports/Progress/2024-11-07%20Progress%20Report.md).
 
-## Details
-- list of things done today with associated attachments (and links to related notes like tests, parts, etc) and explanation behind why that decision was made
+# Details
+- discussed and voted on using ODrive FOC controller
+- sent email to Dr Park about the decision
+- met with Dr Park to discuss the decision in person
