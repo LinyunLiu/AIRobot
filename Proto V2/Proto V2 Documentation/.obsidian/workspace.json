@@ -4,20 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "60a4479218bcc39b",
+        "id": "f114b59ad4490edc",
         "type": "tabs",
         "children": [
           {
-            "id": "26ccf56f7d09f046",
+            "id": "057b25107e14c76b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "cf3d2a91b9167a4a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Resources/ODrive.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ODrive"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,14 +188,17 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:Create new drawing": true,
       "cicada-sync:CI-SYNC": false,
-      "templater-obsidian:Templater": true
+      "templater-obsidian:Templater": true,
+      "homepage:Open homepage": false
     }
   },
-  "active": "26ccf56f7d09f046",
+  "active": "cf3d2a91b9167a4a",
   "lastOpenFiles": [
+    "Reports/Progress/2024-11-14 Progress Report.md",
+    "Reports/Progress/Progress.md",
+    "Welcome.md",
     "Archive/Proto V1/Proto V1.md",
     "Resources/ODrive.md",
-    "Reports/Progress/2024-11-14 Progress Report.md",
     "Untitled.canvas",
     "Resources/Info/Create URDF.md",
     "Reports/Progress/2024-11-07 Progress Report.md",
@@ -188,7 +212,6 @@
     "People/Jun Park.md",
     "Reports/Progress/2024-10-17 Progress Report.md",
     "Reports/Tests/vel_control demo.md",
-    "Welcome.md",
     "Reports/Progress/2024-10-16 Progress Report.md",
     "People/Jacobus Burger.md",
     "People/Oliver (LinYun) Liu.md",

@@ -13,9 +13,9 @@
       "refreshDataview": false,
       "autoCreate": false,
       "autoScroll": false,
-      "pin": false,
+      "pin": true,
       "commands": [],
-      "alwaysApply": false,
+      "alwaysApply": true,
       "hideReleaseNotes": false
     }
   },

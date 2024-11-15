@@ -3,7 +3,6 @@
   "obsidian-kanban",
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
-  "homepage",
   "obsidian-zotero-desktop-connector",
   "cicada-sync",
   "code-emitter",
@@ -15,5 +14,6 @@
   "templater-obsidian",
   "waypoint",
   "convert-url-to-iframe",
-  "url-into-selection"
+  "url-into-selection",
+  "homepage"
 ]
