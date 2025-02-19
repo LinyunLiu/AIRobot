@@ -6,7 +6,7 @@ A robotics research platform at TWU RRU (Trinity Western University's Robotics R
 
 # Proto V2 (2024-09-09 to ???)
 
-Proto V2 is currently in development. It's intended goal is to be the first autonomous delivery robot in the region.
+Proto V2 is currently in development. It's intended goal is to be the first autonomous delivery robot on campus.
 
 ## Contributors
 - Finian (Lughtigheid?)
