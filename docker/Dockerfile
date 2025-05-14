@@ -14,7 +14,7 @@ RUN apt-get update && apt-get upgrade -y
 RUN apt-get install -y git neovim tmux
 RUN apt-get install -y curl htop tree less
 RUN apt-get install -y build-essential zip
-RUN apt-get install -y bash-completion fzf ripgrep man ncdu lsb-release
+RUN apt-get install -y bash-completion fzf ripgrep man
 
 # install mesa drivers for AMD gpu acceleration
 RUN apt-get install -y libgl1-mesa-glx libgl1-mesa-dri
