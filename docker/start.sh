@@ -18,12 +18,14 @@ then
       -e ROS_DOMAIN_ID=$ROS_DOMAIN_ID \
       airos bash
 else
+      # --volume="$(pwd):/home/rosuser/ros2_ws" \
   docker run -it \
       --name airos \
       --env DISPLAY=$DISPLAY \
       --env ROS_DOMAIN_ID=$ROS_DOMAIN_ID \
       --volume="/tmp/.X11-unix:/tmp/.X11-unix:rw" \
-      --volume="$(pwd):/home/rosuser/ros2_ws" \
+      --volume="$HOME/.ssh:/home/ros/.ssh:ro" \
+      --volume="$HOME/.gitconfig:/home/ros/.gitconfig:ro" \
       --device=/dev/dri \
       --group-add video \
       --net=host \

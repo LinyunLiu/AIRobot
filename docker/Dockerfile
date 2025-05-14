@@ -14,7 +14,7 @@ RUN apt-get update && apt-get upgrade -y
 RUN apt-get install -y git neovim nano tmux
 RUN apt-get install -y curl htop tree less
 RUN apt-get install -y build-essential zip
-RUN apt-get install -y bash-completion fzf ripgrep man
+RUN apt-get install -y bash-completion fzf ripgrep delta man
 
 # install mesa drivers for AMD gpu acceleration
 RUN apt-get install -y libgl1-mesa-glx libgl1-mesa-dri
@@ -29,8 +29,11 @@ RUN apt-get install -y ros-humble-robot-localization
 # install python3 packages here
 RUN apt-get install -y python3-pip python3-colcon-common-extensions
 
+# set default user
+USER $USER
+
 # environment
-ENV SHELL /bin/bash
+ENV SHELL=/bin/bash
 ENV ROS_DOMAIN_ID=0
 SHELL ["/bin/bash", "-c"]
 RUN echo "source /opt/ros/humble/setup.bash" >> /home/$USER/.bashrc
@@ -43,9 +46,6 @@ RUN /bin/bash -c "source /opt/ros/humble/setup.bash && colcon build"
 RUN git config --global --add safe.directory /home/$USER/odrive_ws
 RUN echo "source /home/$USER/odrive_ws/install/setup.bash" >> /home/$USER/.bashrc
 
-# set default user
-USER $USER
+# where the user will start
 WORKDIR /home/$USER/odrive_ws
-
-# entry
 CMD ["bash"]
