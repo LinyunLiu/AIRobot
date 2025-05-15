@@ -13,12 +13,13 @@ then
     echo "starting existing container"
     docker start airos
   fi
+  echo "entering existing container"
   docker exec -it \
       -e DISPLAY=$DISPLAY \
       -e ROS_DOMAIN_ID=$ROS_DOMAIN_ID \
       airos bash
 else
-      # --volume="$(pwd):/home/rosuser/ros2_ws" \
+  echo "creating container from image"
   docker run -it \
       --name airos \
       --env DISPLAY=$DISPLAY \
