@@ -1,4 +1,7 @@
 FROM osrf/ros:humble-desktop-full
+LABEL author="Jacobus Burger"
+LABEL supervisor="Dr Andrew Park"
+LABEL descripton="A Docker image for development use in the RRU (Robotics Research Unit) Robotics Project under Dr Park"
 
 # create the user
 ARG USER=ros
@@ -11,8 +14,8 @@ RUN echo "$USER ALL=(ALL) NOPASSWD:ALL" >> /etc/sudoers
 RUN apt-get update && apt-get upgrade -y
 
 # install dev tools
-RUN apt-get install -y git neovim nano tmux
-RUN apt-get install -y curl htop tree less
+RUN apt-get install -y git openssh-client neovim nano tmux
+RUN apt-get install -y curl wget htop tree less
 RUN apt-get install -y build-essential zip
 RUN apt-get install -y bash-completion fzf ripgrep delta man
 
@@ -32,8 +35,12 @@ RUN apt-get install -y python3-pip python3-colcon-common-extensions
 # change to user
 USER $USER
 
-# setup and install repository
+# working in $HOME
 WORKDIR /home/$USER/
+
+# setup and install repository with https
+# To setup with ssh, do so manually. Trying to automate that process
+#   was a massive headache :(
 RUN git clone https://www.github.com/CA-JunPark/odrive_ws
 WORKDIR /home/$USER/odrive_ws
 RUN /bin/bash -c "source /opt/ros/humble/setup.bash && colcon build"
