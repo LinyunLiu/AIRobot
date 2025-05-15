@@ -29,23 +29,23 @@ RUN apt-get install -y ros-humble-robot-localization
 # install python3 packages here
 RUN apt-get install -y python3-pip python3-colcon-common-extensions
 
-# set default user
+# change to user
 USER $USER
+
+# setup and install repository
+WORKDIR /home/$USER/
+RUN git clone https://www.github.com/CA-JunPark/odrive_ws
+WORKDIR /home/$USER/odrive_ws
+RUN /bin/bash -c "source /opt/ros/humble/setup.bash && colcon build"
 
 # environment
 ENV SHELL=/bin/bash
 ENV ROS_DOMAIN_ID=0
 SHELL ["/bin/bash", "-c"]
-RUN echo "source /opt/ros/humble/setup.bash" >> /home/$USER/.bashrc
 
-# setup and install repository
-WORKDIR /home/$USER/
-RUN git clone https://github.com/CA-JunPark/odrive_ws
-WORKDIR /home/$USER/odrive_ws
-RUN /bin/bash -c "source /opt/ros/humble/setup.bash && colcon build"
-RUN git config --global --add safe.directory /home/$USER/odrive_ws
+# setup ROS2 environment source
+RUN echo "source /opt/ros/humble/setup.bash" >> /home/$USER/.bashrc
 RUN echo "source /home/$USER/odrive_ws/install/setup.bash" >> /home/$USER/.bashrc
 
 # where the user will start
-WORKDIR /home/$USER/odrive_ws
 CMD ["bash"]
