@@ -37,8 +37,7 @@
               "title": "ODrive"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +56,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -192,13 +192,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cf3d2a91b9167a4a",
+  "active": "057b25107e14c76b",
   "lastOpenFiles": [
+    "Resources/ODrive.md",
     "Reports/Progress/2024-11-14 Progress Report.md",
     "Reports/Progress/Progress.md",
     "Welcome.md",
     "Archive/Proto V1/Proto V1.md",
-    "Resources/ODrive.md",
     "Untitled.canvas",
     "Resources/Info/Create URDF.md",
     "Reports/Progress/2024-11-07 Progress Report.md",
